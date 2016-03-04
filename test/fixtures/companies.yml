@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  security_code: 1
+  official_name: MyString
+  english_name: MyString
+  market_column: MyString
+
+two:
+  security_code: 1
+  official_name: MyString
+  english_name: MyString
+  market_column: MyString
